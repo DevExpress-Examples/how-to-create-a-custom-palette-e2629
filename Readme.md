@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ColorEdit_CustomPalette/MainPage.xaml) (VB: [MainPage.xaml](./VB/ColorEdit_CustomPalette/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ColorEdit_CustomPalette/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ColorEdit_CustomPalette/MainPage.xaml))
+<!-- default file list end -->
 # How to Create a Custom Palette
 
 
